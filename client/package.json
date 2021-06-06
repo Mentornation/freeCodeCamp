@@ -64,7 +64,7 @@
     "react-tooltip": "^4.2.11",
     "react-transition-group": "^4.4.1",
     "react-youtube": "^7.13.0",
-    "redux": "^4.0.4",
+    "redux": "^4.1.0",
     "redux-actions": "^2.6.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-observable": "^1.2.0",
