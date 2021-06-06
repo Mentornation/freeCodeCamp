@@ -62,7 +62,7 @@
     "react-spinkit": "^3.0.0",
     "react-stripe-elements": "^2.0.3",
     "react-tooltip": "^4.2.11",
-    "react-transition-group": "^4.4.1",
+    "react-transition-group": "^4.4.2",
     "react-youtube": "^7.13.0",
     "redux": "^4.0.4",
     "redux-actions": "^2.6.5",
